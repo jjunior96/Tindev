@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="23" viewBox="0 0 25 23">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.872" x2="1.506" y2="-0.386" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4ad791"/>
+      <stop offset="1" stop-color="#149d29"/>
+    </linearGradient>
+  </defs>
+  <path id="like-press" d="M12.425,6.063A6.539,6.539,0,0,1,18.42,2c3.612,0,6.213,3.09,6.54,6.772a6.739,6.739,0,0,1-.212,2.56A11.317,11.317,0,0,1,21.3,17.083L12.425,25,3.7,17.083A11.315,11.315,0,0,1,.252,11.331,6.739,6.739,0,0,1,.04,8.772C.367,5.09,2.968,2,6.58,2A6.336,6.336,0,0,1,12.425,6.063Z" transform="translate(0 -2)" fill="url(#linear-gradient)"/>
+</svg>
